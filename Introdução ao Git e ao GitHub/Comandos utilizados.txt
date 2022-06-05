@@ -1,0 +1,5 @@
+Comando Utilizados:
+git init (inicializei um repositório vazio), git add + o arquivo que queremos mandar para a area de stage (manda os arquivos para area de stage), git status, git commit -m "primeiro commit" (fiz o primeiro commit no repositório), git status, git branch -M "main"(renomear a branch que estou,mudar nomenclatura de MASTER para MAIN).
+Fui no GITHUB criar um repositório, copiar o link do repositório.
+git remote add origin + o link copiado. (remote conexão entre o repositório local e o repositório do github, add para adicionar e origin é nome que dei para o repositório no github), git push -u origin main (colocando os commit que estão no repositório local para o github, o repositório remoto).
+
